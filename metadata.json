@@ -1,0 +1,5 @@
+{
+  "name": "Visual Explainer",
+  "description": "An AI-powered visual explainer that converts concepts into step-by-step diagrammatic animations using simple shapes and icons.",
+  "requestFramePermissions": []
+}
